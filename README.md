@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on competitive coding
+- 🌱 I’m currently learning python
+- 🤔 I’m looking for help with machine learning
